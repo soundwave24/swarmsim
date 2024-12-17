@@ -4,6 +4,7 @@ Hi, let's start!
 
 This is repo for the simulation for swarm operation.
 
+We're getting closer.
 ## Desc.
 
 ## How to start
