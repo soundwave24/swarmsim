@@ -13,3 +13,9 @@ Thank you.
 Updated.
 
 Original code is from [Here](https://github.com/RuslanAgishev/adaptive_swarm).
+
+
+## venv
+python3 -m venv .venv
+source .venv/bin/activate
+
