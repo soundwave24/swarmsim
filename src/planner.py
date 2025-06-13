@@ -1437,8 +1437,8 @@ simul_tick [%d] with [%f] in zone_[%d] speedX [%f] obsSize [%f]" % \
 
 def AdSwarm(feedback_type):
 
-    referfilename = 'randomtesting/pure_recog_time.csv'  # FIXED
-    referFile = np.array(pd.read_csv(referfilename, sep=','))
+    # referfilename = 'randomtesting/pure_recog_time.csv'  # FIXED
+    # referFile = np.array(pd.read_csv(referfilename, sep=','))
 
     index_seed = 0
     index_tick = 1
