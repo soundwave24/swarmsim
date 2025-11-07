@@ -24,4 +24,4 @@ source .venv/bin/activate
 - [ ] Remove unrelated algorithms
 - [ ] Make it scalable
 - [ ] Make it allow waypoints from an input
-- [ ] 
+- [ ] Make GUI so that the user can control it easily.
